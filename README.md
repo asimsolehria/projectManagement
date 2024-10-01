@@ -32,5 +32,7 @@ This is a Django-based Project Management System that allows users to create pro
 ```bash
 git clone git@github.com:asimsolehria/projectManagement.git
 cd projectManagement
-checkout develop branch for latest code and pull 
+git checkout develop 
+git pull origin develop 
+
 
