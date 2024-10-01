@@ -2,6 +2,8 @@
 
 This is a Django-based Project Management System that allows users to create projects, assign multiple users to projects, and perform CRUD operations on tasks. The system uses JWT (JSON Web Token) for authentication and implements soft delete functionality for both projects and tasks.
 
+The project uses CockroachDB as its database.
+
 ## Features
 
 - User authentication and authorization using JWT.
